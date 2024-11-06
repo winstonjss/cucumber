@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Dividir" skipped="0" tests="2" time="0.47" timestamp="2024-11-06 11:07:26"><testcase name="Dividir dos números enteros correctamente"/><testcase name="Intentar dividir un número entre cero"/></testsuite>
